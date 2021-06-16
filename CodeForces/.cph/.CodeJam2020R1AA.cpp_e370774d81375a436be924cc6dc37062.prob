@@ -1,0 +1,1 @@
+{"name":"Local: CodeJam2020R1AA","url":"/home/varun/cpp/CodeForces/CodeJam2020R1AA.cpp","tests":[{"id":1616932475690,"input":"2\n5\n*CONUTS\n*COCONUTS\n*OCONUTS\n*CONUTS\n*S\n2\n*XZ\n*XYZ","output":"Case #1: COCONUTS\nCase #2: *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/CodeJam2020R1AA.cpp","group":"local","local":true}

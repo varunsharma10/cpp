@@ -1,0 +1,1 @@
+{"name":"Local: 690Div3D","url":"/home/varun/cpp/CodeForces/690Div3D.cpp","tests":[{"id":1622610977975,"input":"4\n5\n3 1 6 6 2\n4\n1 2 2 1\n3\n2 2 2\n4\n6 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/690Div3D.cpp","group":"local","local":true}

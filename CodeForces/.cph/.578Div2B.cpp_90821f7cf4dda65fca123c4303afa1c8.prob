@@ -1,0 +1,1 @@
+{"name":"Local: 578Div2B","url":"/home/varun/cpp/CodeForces/578Div2B.cpp","tests":[{"id":1622295669417,"input":"5\n3 0 1\n4 3 5\n3 1 2\n1 4 7\n4 10 0\n10 20 10 20\n2 5 5\n0 11\n1 9 9\n99","output":"YES\nNO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/578Div2B.cpp","group":"local","local":true}

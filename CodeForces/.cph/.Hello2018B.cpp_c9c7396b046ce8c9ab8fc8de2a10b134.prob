@@ -1,0 +1,1 @@
+{"name":"Local: Hello2018B","url":"/home/varun/cpp/CodeForces/Hello2018B.cpp","tests":[{"id":1622299088091,"input":"8\n1\n1\n1\n1\n3\n3\n3\n","output":""},{"id":1622299157823,"input":"7\n1\n1\n1\n2\n2\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/Hello2018B.cpp","group":"local","local":true}

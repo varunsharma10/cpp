@@ -1,0 +1,1 @@
+{"name":"Local: 259Div2B","url":"/home/varun/cpp/CodeForces/259Div2B.cpp","tests":[{"id":1619881353574,"input":"2\n2 1\n","output":""},{"id":1619881379270,"input":"3\n1 3 2\n","output":""},{"id":1619881388423,"input":"2\n1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/259Div2B.cpp","group":"local","local":true}

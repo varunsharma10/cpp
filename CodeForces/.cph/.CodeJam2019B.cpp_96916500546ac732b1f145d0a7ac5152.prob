@@ -1,0 +1,1 @@
+{"name":"Local: CodeJam2019B","url":"/home/varun/cpp/CodeForces/CodeJam2019B.cpp","tests":[{"id":1616508681167,"input":"2\n2\nSE\n5\nEESSSESE","output":"Case #1: ES\nCase #2: SEEESSES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/CodeJam2019B.cpp","group":"local","local":true}

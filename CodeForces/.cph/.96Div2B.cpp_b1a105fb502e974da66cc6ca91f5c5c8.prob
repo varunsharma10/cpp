@@ -1,0 +1,1 @@
+{"name":"Local: 96Div2B","url":"/home/varun/cpp/CodeForces/96Div2B.cpp","tests":[{"id":1620368223604,"input":",.\n","output":""},{"id":1620368234161,"input":"++++[>,.<-]\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/96Div2B.cpp","group":"local","local":true}

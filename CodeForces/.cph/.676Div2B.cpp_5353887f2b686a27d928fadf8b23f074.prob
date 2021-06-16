@@ -1,0 +1,1 @@
+{"name":"Local: 676Div2B","url":"/home/varun/cpp/CodeForces/676Div2B.cpp","tests":[{"id":1622816369558,"input":"3\n4\nS010\n0001\n1000\n111F\n3\nS10\n101\n01F\n5\nS0101\n00000\n01111\n11111\n0001F\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/676Div2B.cpp","group":"local","local":true}

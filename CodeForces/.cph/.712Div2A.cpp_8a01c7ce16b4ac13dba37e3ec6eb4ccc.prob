@@ -1,0 +1,1 @@
+{"name":"Local: 712Div2A","url":"/home/varun/cpp/CodeForces/712Div2A.cpp","tests":[{"id":1617461172459,"input":"6\ncbabc\nab\nzza\nab\na\nnutforajaroftuna","output":"YES\ncbabac\nYES\naab\nYES\nzaza\nYES\nbaa\nNO\nYES\nnutforajarofatuna"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/712Div2A.cpp","group":"local","local":true}

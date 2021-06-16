@@ -1,0 +1,1 @@
+{"name":"Local: KickStartA2021A","url":"/home/varun/cpp/CodeForces/KickStartA2021A.cpp","tests":[{"id":1616299755479,"input":"2\n5 1\nABCAA\n4 2\nABAA\n","output":"Case #1: 0\nCase #2: 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/KickStartA2021A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 712Div2C","url":"/home/varun/cpp/CodeForces/712Div2C.cpp","tests":[{"id":1617545864113,"input":"3\n6\n101101\n10\n1001101101\n4\n1100\n","output":"YES\n()()()\n((()))\nYES\n()()((()))\n(())()()()\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/712Div2C.cpp","group":"local","local":true}

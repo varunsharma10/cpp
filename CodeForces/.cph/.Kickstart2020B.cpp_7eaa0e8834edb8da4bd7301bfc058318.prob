@@ -1,0 +1,1 @@
+{"name":"Local: Kickstart2020B","url":"/home/varun/cpp/CodeForces/Kickstart2020B.cpp","tests":[{"id":1615877556579,"input":"2\n2 4 5\n10 10 100 30\n80 50 10 50\n3 2 3\n80 80\n15 50\n20 10","output":"Case #1: 250\nCase #2: 180"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/Kickstart2020B.cpp","group":"local","local":true}

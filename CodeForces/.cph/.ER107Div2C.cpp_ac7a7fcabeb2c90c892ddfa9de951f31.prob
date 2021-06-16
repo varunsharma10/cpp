@@ -1,0 +1,1 @@
+{"name":"Local: ER107Div2C","url":"/home/varun/cpp/CodeForces/ER107Div2C.cpp","tests":[{"id":1618240079869,"input":"7 5\n2 1 1 4 3 3 1\n3 2 1 1 4","output":"5 2 3 1 5 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/ER107Div2C.cpp","group":"local","local":true}

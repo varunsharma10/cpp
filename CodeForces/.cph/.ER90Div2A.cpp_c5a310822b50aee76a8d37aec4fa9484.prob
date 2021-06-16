@@ -1,0 +1,1 @@
+{"name":"Local: ER90Div2A","url":"/home/varun/cpp/CodeForces/ER90Div2A.cpp","tests":[{"id":1623077469813,"input":"4\n5 10 4\n4 5 20\n2 2 3\n1000000000 1000000000 1000000000\n","output":"-1 20\n8 -1\n1 2\n-1 1000000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/ER90Div2A.cpp","group":"local","local":true}

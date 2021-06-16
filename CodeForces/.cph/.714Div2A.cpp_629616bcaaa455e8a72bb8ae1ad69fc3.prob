@@ -1,0 +1,1 @@
+{"name":"Local: 714Div2A","url":"/home/varun/cpp/CodeForces/714Div2A.cpp","tests":[{"id":1618152491873,"input":"5\n1 0\n5 2\n6 6\n2 1\n6 1","output":"1 \n2 4 1 5 3 \n-1\n-1\n1 3 6 5 4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/714Div2A.cpp","group":"local","local":true}

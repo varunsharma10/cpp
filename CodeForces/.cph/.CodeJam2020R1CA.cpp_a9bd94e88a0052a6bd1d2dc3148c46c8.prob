@@ -1,0 +1,1 @@
+{"name":"Local: CodeJam2020R1CA","url":"/home/varun/cpp/CodeForces/CodeJam2020R1CA.cpp","tests":[{"id":1617974878483,"input":"5\n4 4 SSSS\n3 0 SNSS\n2 10 NSNNSN\n0 1 S\n2 7 SSSSSSSS","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/CodeJam2020R1CA.cpp","group":"local","local":true}

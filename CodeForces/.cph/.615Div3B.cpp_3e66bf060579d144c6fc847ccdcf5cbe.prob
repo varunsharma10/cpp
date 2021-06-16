@@ -1,0 +1,1 @@
+{"name":"Local: 615Div3B","url":"/home/varun/cpp/CodeForces/615Div3B.cpp","tests":[{"id":1621603008239,"input":"3\n5\n1 3\n1 2\n3 3\n5 5\n4 3\n2\n1 0\n0 1\n1\n4 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/615Div3B.cpp","group":"local","local":true}
