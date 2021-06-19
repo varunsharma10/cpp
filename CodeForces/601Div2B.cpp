@@ -10,17 +10,23 @@ void solve()
     int n,m;
     cin>>n>>m;
     int arr[n];
-    if(m<n)
-    {
-        cout<<-1<<endl;
-        return;
-    }
+    
     ll sum = 0;
     for(int i=0;i<n;i++)
     {
         cin>>arr[i];
         sum+=(arr[i]*2);
-    }       
+    }   
+    if(m<n)
+    {
+        cout<<-1<<endl;
+        return;
+    }    
+    else if(n == 2)
+    {
+        cout<<-1<<endl;
+        return;
+    }
     cout<<sum<<endl;
     int j = 1;
     for(int i=0;i<m;i++)

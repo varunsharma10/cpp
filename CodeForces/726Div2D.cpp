@@ -8,24 +8,28 @@ const ll mod = 1000000007;
 void solve(){
     ll n;
     cin>>n;
-    if(n & 1){
+    if(n%2== 1){
         cout<<"Bob"<<endl;
     }
     else
     {
-    	int ct=0;
+    	int count=0;
         while(n%2==0){
             n/=2;
-            ct++;
+            count++;
         }
         if(n>1){
             cout<<"Alice"<<endl;
         }
-        else{
-            if(ct%2){
+        else
+        {
+            if(count%2)
+            {
                 cout<<"Bob"<<endl;
             }
-            else{
+            else
+            {
+
                 cout<<"Alice"<<endl;
             }
         }

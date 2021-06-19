@@ -1,0 +1,1 @@
+{"name":"Local: 598Div3A","url":"/home/varun/cpp/CodeForces/598Div3A.cpp","tests":[{"id":1624110046221,"input":"4\n1 2 3 4\n1 2 3 6\n5 2 6 27\n3 3 5 18","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/598Div3A.cpp","group":"local","local":true}
