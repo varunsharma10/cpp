@@ -1,0 +1,1 @@
+{"name":"Local: 726Div2C","url":"/home/varun/cpp/CodeForces/726Div2C.cpp","tests":[{"id":1624030745950,"input":"2\n4\n4 2 1 2\n2\n3 1\n","output":""},{"id":1624031199341,"input":"1\n6\n5 6 6 6 6 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/726Div2C.cpp","group":"local","local":true}
