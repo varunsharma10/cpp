@@ -1,0 +1,1 @@
+{"name":"Local: TestingRound14A","url":"/home/varun/cpp/CodeForces/TestingRound14A.cpp","tests":[{"id":1625120284282,"input":"8 4\n10010101\n","output":""},{"id":1625120787901,"input":"4 2\n1001\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/TestingRound14A.cpp","group":"local","local":true}
