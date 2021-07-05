@@ -1,0 +1,1 @@
+{"name":"Local: 729Div3C","url":"/home/varun/cpp/CodeForces/729Div3C.cpp","tests":[{"id":1625320586688,"input":"6\n1\n2\n3\n4\n10\n10000000000000000","output":"2\n5\n7\n10\n26\n366580019"},{"id":1625420223976,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/729Div3C.cpp","group":"local","local":true}

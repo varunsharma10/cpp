@@ -1,0 +1,1 @@
+{"name":"Local: 579Div3C","url":"/home/varun/cpp/CodeForces/579Div3C.cpp","tests":[{"id":1625207117752,"input":"5\n2 4 6 2 10","output":""},{"id":1625207366158,"input":"6\n6 90 12 18 30 18\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/579Div3C.cpp","group":"local","local":true}
