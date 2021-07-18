@@ -1,0 +1,1 @@
+{"name":"Local: 638Div2B","url":"/home/varun/cpp/CodeForces/638Div2B.cpp","tests":[{"id":1626531508656,"input":"4\n4 2\n1 2 2 1\n4 3\n1 2 2 1\n3 2\n1 2 3\n4 4\n4 3 4 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/638Div2B.cpp","group":"local","local":true}
