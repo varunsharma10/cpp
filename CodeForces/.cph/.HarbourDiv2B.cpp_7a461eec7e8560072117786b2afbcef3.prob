@@ -1,0 +1,1 @@
+{"name":"Local: HarbourDiv2B","url":"/home/varun/cpp/CodeForces/HarbourDiv2B.cpp","tests":[{"id":1626968917989,"input":"6\nabcdef\ncdedcb\naaa\naaaaa\naab\nbaaa\nab\nb\nabcdef\nabcdef\nba\nbaa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/HarbourDiv2B.cpp","group":"local","local":true}
