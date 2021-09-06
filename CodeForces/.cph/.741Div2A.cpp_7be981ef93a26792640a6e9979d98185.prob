@@ -1,0 +1,1 @@
+{"name":"Local: 741Div2A","url":"/home/varun/cpp/CodeForces/741Div2A.cpp","tests":[{"id":1629990005822,"input":"4\n1 1\n999999999 1000000000\n8 26\n1 999999999","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/741Div2A.cpp","group":"local","local":true}
