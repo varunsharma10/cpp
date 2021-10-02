@@ -1,0 +1,1 @@
+{"name":"Local: 744Div3A","url":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\744Div3A.cpp","tests":[{"id":1632839871445,"input":"6\nABACAB\nABBA\nAC\nABC\nCABCBB\nBCBCBCBCBCBCBCBC\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\744Div3A.cpp","group":"local","local":true}
