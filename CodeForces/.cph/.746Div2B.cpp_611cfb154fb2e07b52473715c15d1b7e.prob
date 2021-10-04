@@ -1,0 +1,1 @@
+{"name":"Local: 746Div2B","url":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\746Div2B.cpp","tests":[{"id":1633273670812,"input":"4\n3 3\n3 2 1\n4 3\n1 2 3 4\n5 2\n5 1 2 3 4\n5 4\n1 2 3 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\746Div2B.cpp","group":"local","local":true}

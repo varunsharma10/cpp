@@ -1,0 +1,1 @@
+{"name":"Local: ER113Div2A","url":"/home/varun/cpp/CodeForces/ER113Div2A.cpp","tests":[{"id":1631111998986,"input":"5\n1\na\n6\nabbaba\n6\nabbaba\n9\nbabbabbaa\n3\naab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/ER113Div2A.cpp","group":"local","local":true}
