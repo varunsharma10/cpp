@@ -14,20 +14,24 @@ void solve()
     {
         cin>>arr[i];
     }       
-    vector<int>dp(n);
-    for(int i=n-1;i>=0;i--)
+    int idx1 = 0;
+    int idx2 = n-1;
+    while(arr[idx1] != 1)
     {
-        dp[i] = arr[i];
-        int tmp = i + arr[i];
-
-        if(tmp < n)
-        {
-            dp[i] += dp[tmp];
-        }
-
+        idx1++;
     }
-    int maxx = *max_element(dp.begin(),dp.end());
-    cout<<maxx<<endl;
+    while(arr[idx2] != 1)
+    {
+        idx2--;
+    }
+    int count = 0;
+    for(int i=idx1 ;i<=idx2;i++)
+    {
+        if(arr[i] == 0)
+        count++;
+    }
+    cout<<count<<endl;
+
 }
 int main()
 {   

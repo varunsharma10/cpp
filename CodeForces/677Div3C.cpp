@@ -10,24 +10,25 @@ void solve()
     int n;
     cin>>n;
     int arr[n];
+    int maxx = INT_MIN;
     for(int i=0;i<n;i++)
     {
         cin>>arr[i];
+        maxx = max(arr[i],maxx);
     }       
-    vector<int>dp(n);
-    for(int i=n-1;i>=0;i--)
+    int idx = -1;
+    for(int i=0;i<n;i++)
     {
-        dp[i] = arr[i];
-        int tmp = i + arr[i];
+        if(arr[i] != maxx)
+            continue;
 
-        if(tmp < n)
-        {
-            dp[i] += dp[tmp];
-        }
-
+        if(i > 0 && arr[i-1] != maxx)
+            idx = i+1;
+        if(i < n-1 && arr[i+1] != maxx)
+            idx = i+1;
     }
-    int maxx = *max_element(dp.begin(),dp.end());
-    cout<<maxx<<endl;
+    cout<<idx<<endl;
+
 }
 int main()
 {   
