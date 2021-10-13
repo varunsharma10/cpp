@@ -1,0 +1,1 @@
+{"name":"Local: 747Div2C","url":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\747Div2C.cpp","tests":[{"id":1633708500851,"input":"3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\747Div2C.cpp","group":"local","local":true}
