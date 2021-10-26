@@ -1,0 +1,1 @@
+{"name":"Local: 750Div3C","url":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\750Div3C.cpp","tests":[{"id":1635072231359,"input":"5\n8\nabcaacab\n6\nxyzxyz\n4\nabba\n8\nrprarlap\n10\nkhyyhhyhky","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"\\\\wsl$\\Ubuntu\\home\\varun\\cpp\\CodeForces\\750Div3C.cpp","group":"local","local":true}
