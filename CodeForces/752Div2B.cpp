@@ -14,12 +14,16 @@ void solve()
     {
         cin>>arr[i];
     }       
-    bool inc = true;
+    bool inc = false;
     for(int i=1;i<n;i++)
     {
-        inc &= (arr[i] > arr[i-1]);
+        if(arr[i-1] >= arr[i])
+        {
+            inc = true;
+            break;
+        }
     }
-    if(n%2 == 0 || !inc)
+    if(n%2 == 0 || inc == true)
         cout<<"YES"<<endl;
     else
         cout<<"NO"<<endl;
