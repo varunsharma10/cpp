@@ -1,0 +1,1 @@
+{"name":"Local: 705Div2B","url":"/home/varun/cpp/CodeForces/705Div2B.cpp","tests":[{"id":1641994718088,"input":"5\n24 60\n12:21\n24 60\n23:59\n90 80\n52:26\n1 100\n00:01\n10 10\n04:04\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/705Div2B.cpp","group":"local","local":true}
