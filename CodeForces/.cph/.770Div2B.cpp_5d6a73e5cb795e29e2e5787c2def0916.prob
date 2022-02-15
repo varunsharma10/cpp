@@ -1,0 +1,1 @@
+{"name":"Local: 770Div2B","url":"/home/varun/cpp/CodeForces/770Div2B.cpp","tests":[{"id":1644212522549,"input":"4\n1 7 9\n2\n2 0 2\n1 3\n4 0 1\n1 2 3 4\n2 1000000000 3000000000\n1000000000 1000000000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/770Div2B.cpp","group":"local","local":true}
