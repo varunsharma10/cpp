@@ -1,0 +1,1 @@
+{"name":"Local: ER123Div2A","url":"/home/varun/cpp/CodeForces/ER123Div2A.cpp","tests":[{"id":1645540682473,"input":"4\nrgbBRG\nRgbrBG\nbBrRgG\nrgRGBb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/ER123Div2A.cpp","group":"local","local":true}
