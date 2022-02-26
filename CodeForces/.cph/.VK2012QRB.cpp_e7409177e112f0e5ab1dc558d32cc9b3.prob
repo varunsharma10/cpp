@@ -1,0 +1,1 @@
+{"name":"Local: VK2012QRB","url":"/home/varun/cpp/CodeForces/VK2012QRB.cpp","tests":[{"id":1645850871131,"input":"5\n1 2 4 3 3\n","output":""},{"id":1645850872833,"input":"8\n2 3 4 4 2 1 3 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/VK2012QRB.cpp","group":"local","local":true}
