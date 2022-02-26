@@ -2,39 +2,38 @@
 using namespace std;
 void solve()
 {
-    int n,x;
+    long long n,x;
     cin>>n>>x;
-    int sum=0;
-    int k;
-    vector<int>v;
-    for (int i = 0; i < n; i++)
+    long long sum=0;
+    long long k;
+    vector<long long>v;
+    long long sum2=0;
+    for (long long i = 0; i < n; i++)
     {
         cin>>k;
         v.push_back(k);
+        sum2 += k;
     }
-    int d;
-    for (int i = 0; i < v.size(); i++)
+    vector<long long>b;
+    long long f=1;
+	long long c=0;
+    while(f!=0)
     {
-        if(v[i]%x==0)
-        {   
-            d=x;
-            while(d--)
-            {
-                v.push_back(v[i]/x);
-            }
-            
-        }
-        if(v[i]%x!=0)
+        long long val=pow(x,c);
+        for(long long i=0;i<n;i++)
         {
-            break;
+            if(v[i]%x==0)
+            { sum2+=val*v[i];
+                v[i]=v[i]/x;
+            }
+            else
+            {
+                f=0;
+                break;
+            }
         }
+        c++;
     }
-    int sum2=0;
-    for (int i = 0; i < v.size(); i++)
-    {
-        sum2+=v[i];
-    }
-    
     cout<<sum2<<endl;
     
 }

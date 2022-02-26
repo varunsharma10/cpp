@@ -2,30 +2,26 @@
 using namespace std;
 int main()
 {
-    int n;
-    const int N = int(1e5 + 3);
-    int num;
+    long long n;
     cin>>n;
-    int arr[N];
-    for (int i = 0; i < n; i++)
+    map<long long,long long>mp;
+    for(long long i=0;i<n;i++)
     {
-        cin>>num;
-        arr[num]=i+1;
+        long long x;
+        cin>>x;
+        mp[x] = i+1;
     }
-    int m;
+    long long a = 0;
+    long long b = 0;
+    long long m;
     cin>>m;
-    int q;
-    int a=0,b=0;
-    for (int i = 0; i < m; i++)
+
+    for(long long i=0;i<m;i++)
     {
-        cin>>q;
-        a=a+arr[q];
-        b=b + n-arr[q]+1;
-        
+        long long x;
+        cin>>x;
+        a += mp[x];
+        b += n - mp[x] + 1;
     }
-    cout<<a<<" "<<b<<endl;
-    
-    
-    
-    
+    cout<<a<<" "<<b<<endl;    
 }
