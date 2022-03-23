@@ -1,0 +1,1 @@
+{"name":"Local: ER125Div2C","url":"/home/varun/cpp/CodeForces/ER125Div2C.cpp","tests":[{"id":1648044861564,"input":"5\n2\n()\n3\n())\n4\n((((\n5\n)((()\n6\n)((()(\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/CodeForces/ER125Div2C.cpp","group":"local","local":true}
