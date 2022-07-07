@@ -1,0 +1,1 @@
+{"name":"Local: Min_Coint_change","url":"/home/varun/cpp/dp/Min_Coint_change.cpp","tests":[{"id":1656932686540,"input":"3\n1 7 10\n15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/Min_Coint_change.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: wine_seller","url":"/home/varun/cpp/dp/wine_seller.cpp","tests":[{"id":1656934710612,"input":"5\n2 3 5 1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/wine_seller.cpp","group":"local","local":true}

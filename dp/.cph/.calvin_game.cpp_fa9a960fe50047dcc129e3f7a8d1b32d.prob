@@ -1,0 +1,1 @@
+{"name":"Local: calvin_game","url":"/home/varun/cpp/dp/calvin_game.cpp","tests":[{"id":1657119249500,"input":"5 2\n5 3 -2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/calvin_game.cpp","group":"local","local":true}
