@@ -1,0 +1,1 @@
+{"name":"Local: neighbouring_enemies","url":"/home/varun/cpp/dp/neighbouring_enemies.cpp","tests":[{"id":1657206850253,"input":"10\n10 5 8 9 5 6 8 7 2 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/neighbouring_enemies.cpp","group":"local","local":true}
