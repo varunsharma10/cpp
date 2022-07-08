@@ -1,0 +1,1 @@
+{"name":"Local: count_subsequence","url":"/home/varun/cpp/dp/count_subsequence.cpp","tests":[{"id":1657290681335,"input":"7\nABCDEFG","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/count_subsequence.cpp","group":"local","local":true}
