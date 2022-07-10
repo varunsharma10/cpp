@@ -1,0 +1,1 @@
+{"name":"Local: Wildcard_Pattern_Matching","url":"/home/varun/cpp/dp/2D-dp/Wildcard_Pattern_Matching.cpp","tests":[{"id":1657435120986,"input":"6 2\naaabab\na?","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/2D-dp/Wildcard_Pattern_Matching.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"/home/varun/cpp/dp/2D-dp/lcs.cpp","tests":[{"id":1657376025364,"input":"3 3\nabc\nacd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/2D-dp/lcs.cpp","group":"local","local":true}

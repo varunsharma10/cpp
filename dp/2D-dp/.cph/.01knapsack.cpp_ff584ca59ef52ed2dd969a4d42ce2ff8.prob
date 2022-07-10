@@ -1,0 +1,1 @@
+{"name":"Local: 01knapsack","url":"/home/varun/cpp/dp/2D-dp/01knapsack.cpp","tests":[{"id":1657376402497,"input":"5 4\n1 2 3 2 2 \n8 4 0 5 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/2D-dp/01knapsack.cpp","group":"local","local":true}
