@@ -1,0 +1,1 @@
+{"name":"Local: square_brackets","url":"/home/varun/cpp/dp/2D-dp/square_brackets.cpp","tests":[{"id":1657552967384,"input":"5 \n1 1 \n1 \n1 1 \n2 \n2 1 \n1 \n3 1 \n2 \n4 2 \n5 7 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/2D-dp/square_brackets.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Subset_sum_zero","url":"/home/varun/cpp/dp/2D-dp/Subset_sum_zero.cpp","tests":[{"id":1657461481912,"input":"4\n1 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/2D-dp/Subset_sum_zero.cpp","group":"local","local":true}

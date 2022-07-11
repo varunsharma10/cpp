@@ -1,0 +1,1 @@
+{"name":"Local: Regex_matching","url":"/home/varun/cpp/dp/2D-dp/Regex_matching.cpp","tests":[{"id":1657553826891,"input":"aaabab\na.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/2D-dp/Regex_matching.cpp","group":"local","local":true}
