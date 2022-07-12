@@ -1,0 +1,1 @@
+{"name":"Local: tourist","url":"/home/varun/cpp/dp/Multidimensional-DP/tourist.cpp","tests":[{"id":1657604356120,"input":"5 5\n.*.*.\n*###.\n*.*.*\n.###*\n.*.*.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/Multidimensional-DP/tourist.cpp","group":"local","local":true}
