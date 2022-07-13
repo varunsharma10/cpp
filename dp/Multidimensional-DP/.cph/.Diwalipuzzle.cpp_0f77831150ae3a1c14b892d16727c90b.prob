@@ -1,0 +1,1 @@
+{"name":"Local: Diwalipuzzle","url":"/home/varun/cpp/dp/Multidimensional-DP/Diwalipuzzle.cpp","tests":[{"id":1657692961875,"input":"6\n5 3\n10 9\n99 87\n23 34\n66 23\n23 12","output":"2\n1\n185141\n0\n375215\n84498"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/Multidimensional-DP/Diwalipuzzle.cpp","group":"local","local":true}
