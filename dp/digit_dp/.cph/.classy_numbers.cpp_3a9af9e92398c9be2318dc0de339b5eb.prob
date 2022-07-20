@@ -1,0 +1,1 @@
+{"name":"Local: classy_numbers","url":"/home/varun/cpp/dp/digit_dp/classy_numbers.cpp","tests":[{"id":1658125077758,"input":"4\n1 1000\n1024 1024\n65536 65536\n999999 1000001\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/digit_dp/classy_numbers.cpp","group":"local","local":true}
