@@ -1,0 +1,1 @@
+{"name":"Local: family_tree","url":"/home/varun/cpp/dp/dp-on-Trees/family_tree.cpp","tests":[{"id":1658296517401,"input":"4 \n5 10 6 12 \n2 -1 4 2 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/dp-on-Trees/family_tree.cpp","group":"local","local":true}
