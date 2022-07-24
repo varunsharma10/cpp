@@ -1,0 +1,1 @@
+{"name":"Local: candies","url":"/home/varun/cpp/dp/Problem-Set/candies.cpp","tests":[{"id":1658585218976,"input":"4 100000\n100000 100000 100000 100000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/varun/cpp/dp/Problem-Set/candies.cpp","group":"local","local":true}
